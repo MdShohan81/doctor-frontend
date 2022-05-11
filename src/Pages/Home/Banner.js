@@ -7,7 +7,7 @@ const Banner = () => {
         
         <div class="hero min-h-screen">
             <div class="hero-content flex-col md:flex-row-reverse lg:flex-row-reverse ">
-                <img src={heros} class="max-w-lg  rounded-lg shadow-2xl"/>
+                <img src={heros} class="max-w-sm3  rounded-lg shadow-2xl"/>
                 <div>
                 <h1 class="text-5xl font-bold">Achieve Your Desired Perfect Smile</h1>
                 <p class="py-6">A full range of cosmetic dentistry treatment to improve your smile</p>
